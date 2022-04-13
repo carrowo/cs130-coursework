@@ -42,6 +42,11 @@ p, li {
     line-height: 1.5em;
 }
 
+#tutorials {
+    background-color: #ebffe1;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 #inspiration {
     background-color: #d8daf7;
     padding-top: 40px;
