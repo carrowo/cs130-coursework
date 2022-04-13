@@ -4,9 +4,37 @@
 }
 
 body {
-    margin: 0px;
-    font-family: Arial, sans-serif;
+	margin: 40px;
+	color: #222;
+	background-color: #ffffff;
+	font-family: monospace, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	-webkit-text-size-adjust: 100%;
+	-webkit-overflow-scrolling: touch;
 }
+
+a {
+	color: #0000ee;
+	text-decoration: none;
+	-webkit-transition: 130ms linear;
+	-ms-transition: 130ms linear;
+	transition: 130ms linear;
+}
+
+input,
+input:focus {
+	border: none;
+	font-family: monospace, sans-serif;
+	font-size: 14px;
+	opacity: .7;
+}
+
+a:visited {
+	color: #7777ff;
+	text-decoration: none;
+}
+
 header, section {
     padding: 20px;
 }
