@@ -6,7 +6,7 @@
 body {
 	margin: 40px;
 	color: #222;
-	background-color: #ffffff;
+	background-color: #ffd2d2;
 	font-family: monospace, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
@@ -43,7 +43,7 @@ p, li {
 }
 
 #inspiration {
-    background-color: #d9bb9e;
+    background-color: #d8daf7;
     padding-top: 40px;
     padding-bottom: 40px;
 }
