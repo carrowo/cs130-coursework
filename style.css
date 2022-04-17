@@ -6,7 +6,7 @@
 body {
 	margin: 40px;
 	color: #222;
-	background-color: #ffd2d2;
+	background-color: #fff9e1;
 	font-family: monospace, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
@@ -43,12 +43,12 @@ p, li {
 }
 
 #tutorials {
-    background-color: #ebffe1;
+    background-color: #ffedde;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 #inspiration {
-    background-color: #d8daf7;
+    background-color: #ffe4e1;
     padding-top: 40px;
     padding-bottom: 40px;
 }
